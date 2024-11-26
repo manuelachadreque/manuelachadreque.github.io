@@ -616,7 +616,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(69, 80, 91, 0.8);
+  background: #86b7fec2;
 }
 
 .portfolio .portfolio-wrap::before {
@@ -703,6 +703,7 @@ section {
   transition: 0.3s;
 }
 
+/**
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   color: #148af9;
 }
@@ -728,6 +729,7 @@ section {
   bottom: 15px;
   right: 15px;
 }
+**/
 
 /*--------------------------------------------------------------
 # Portfolio Details
